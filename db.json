@@ -1,45 +1,52 @@
 {
     "bg": "https://cdn6.aptoide.com/imgs/4/c/b/4cb9f5578fb8e25733bbf07205c91dd7.png",
-    "title": "Quiz JavaScript #AluraQuiz",
+    "title": "Quiz o Hobbit #AluraQuiz",
     "description": "Um quiz rápido sobre o mundo do JavaScript",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/j5P0DQIOf4PonLi55G/giphy.gif",
-        "title": "Qual a diferença entre = , == e === ?",
+        "image": "https://media.giphy.com/media/27qZYHJaLJ04/giphy.gif",
+        "title": "Quem criou o hobbit?",
         "description": "Pergunta fácil em!",
-        "answer": 1,
+        "answer": 2,
         "alternatives": [
-          "São a mesma coisa",
-          "O = significa atribuição de valor. Já == verifica a igualdade do valor, enquanto === verifica valor e tipo de variável."
+          "J.K Rowling",
+          "Jane Austen",
+          "J.R.R. Tolkien",
+          "Henry James"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/Ie2Hs3A0uJRtK/giphy.gif",
-        "title": "Que tipos de dados são suportados em JavaScript?",
+        "image": "https://media.giphy.com/media/131szFis2sG4QE/giphy.gif",
+        "title": "Como bilbo consegui escapar de gollum?",
         "description": "E agora? Você sabe?",
         "answer": 0,
         "alternatives": [
-          "Number, String, Undefined, Null e Bool.",
-          "Int, String, Undefined, Null e Bool."
+          "Com o anel",
+          "Matando o gollum.",
+          "Charadas.",
+          "Dando um soco na cara de gollum."
         ]
       },
       {
-        "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-        "title": "Qual a diferença de window e global?",
-        "answer": 1,
+        "image": "https://media.giphy.com/media/jBDM6ZJ6j0S88/giphy.gif",
+        "title": "Como Bilbo conseguiu sua espada Ferroada?",
+        "answer": 3,
         "alternatives": [
-          "São a mesma coisa",
-          "window é o escopo global no browser, e global no node"
+          "Ele ganhou de Gandalf.",
+          "Num Buraco no chão.",
+          "Num jardim.",
+          "Na toca dos trolls."
         ]
       },
       {
-        "image": "https://media.giphy.com/media/iI4vhciiVh2b3j9sgo/giphy.gif",
-        "title": "Qual a forma antiga de trabalhar com AJAX na Web?",
+        "image": "https://media.giphy.com/media/Cr7yTbjNuY27C/giphy.gif",
+        "title": "Qual é o nome do objeto capturado por bilbo nas montanhas sombrias?",
         "answer": 1,
         "alternatives": [
-          "JSONHttpRequest",
-          "XMLHttpRequest",
-          "fetch"
+          "Chapeu",
+          "Anel",
+          "Bolsa",
+          "Espada"
         ]
       }
     ],
